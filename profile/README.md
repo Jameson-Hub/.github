@@ -8,8 +8,8 @@ I work end-to-end — database, API, web, mobile and the AWS infrastructure unde
 
 ## 🛠 Stack
 
-**Core:** TypeScript · JavaScript · React · Node.js · GraphQL · PostgreSQL · AWS
-**Also:** Express · Apollo · Prisma · DynamoDB · Redux Toolkit · React Query · Vite · Capacitor · SST/CDK · Lambda · SQS · Cognito · S3 · SES · WebSockets
+- **Core:** TypeScript · JavaScript · React · Node.js · GraphQL · PostgreSQL · AWS
+- **Also:** Express · Apollo · Prisma · DynamoDB · Redux Toolkit · React Query · Vite · Capacitor · SST/CDK · Lambda · SQS · Cognito · S3 · SES · WebSockets
 
 ## 🏆 Highlights
 
@@ -18,11 +18,12 @@ I work end-to-end — database, API, web, mobile and the AWS infrastructure unde
 - **Voice messages + transcription** — iOS, Android and Outlook, inbound audio transcribed to text
 - **Microsoft Teams app** — the whole web app brought into Teams
 - **Subscription billing**
+- **Prospect Scanner** — internal sales tool: upload a CSV of domains and it scans each website for signs the business already uses WhatsApp, queuing the scans and flagging every domain as found, no evidence or couldn't check
 
 ## 🚀 Things I've built
 
-- ⭐ [TaskFlow](https://taskflow.bagainjameson.workers.dev) — task management app, live on Cloudflare Workers with CI/CD
-- 📱 [Ping — Chats & Locations](https://apps.apple.com/us/app/ping-chats-locations/id6805830044) — iOS app on the App Store
+- ⭐ [TaskFlow](https://taskflow.bagainjameson.workers.dev) — task management app, live on Cloudflare Workers with CI/CD · [code](https://github.com/Jameson-Hub/taskflow)
+- 📱 [Ping — Chats & Locations](https://apps.apple.com/us/app/ping-chats-locations/id6805830044) — real-time location sharing with group chat, iOS app on the App Store · [code](https://github.com/Jameson-Hub/ping)
 - 📱 [All Asian Recipes](https://apps.apple.com/us/app/all-asian-recipes/id6806809140) — iOS app on the App Store
 
 ## 🧭 How I work
